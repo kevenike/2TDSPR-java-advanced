@@ -3,6 +3,7 @@ package com._tdspr.kevenike.usecase;
 import com._tdspr.kevenike.domain.Aluno;
 
 public class CadastraAlunoInpl implements CadastrarAluno {
+
     @Override
     public Aluno executar(Aluno alunoParaSerCadastrado) {
 
